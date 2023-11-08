@@ -6,11 +6,13 @@
 
 This repository provides a working sample of Live Event Streaming using Sendbird Live SDK.
 
-In this repository, you can find implementation guide for `SINGLE_HOST` and `SINGLE_HOST_AUDIO_ONLY` live event types.
+In this repository, you can find implementation guide for `LIVE_EVENT_FOR_VIDEO` and `LIVE_EVENT_FOR_AUDIO_ONLY` live event types.
 
-### [Video Sample](https://github.com/sendbird/sendbird-live-sample-react)
+### [Video Sample](https://github.com/sendbird/sendbird-live-sample-video-react)
 
 ### [Audio Only Sample](https://github.com/sendbird/sendbird-live-sample-audio-react)
+
+### [Video Live with UIKit](https://github.com/sendbird/sendbird-live-sample-react)
 
 --- 
 
